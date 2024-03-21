@@ -1,0 +1,19 @@
+{
+  "name": "@juliesoboleva/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JulieSoboleva/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulieSoboleva/ajs/issues"
+  },
+  "homepage": "https://github.com/JulieSoboleva/ajs#readme"
+}
